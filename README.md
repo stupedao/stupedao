@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Developer;Server+Optimization+Expert;Anti-Exploit+Specialist;License+Protection+Builder;AI+Tooling+Creator" alt="Typing SVG" />
 </p>
 
-**Minecraft plugin development · Server optimization · Anti-exploit systems · License protection · AI-powered tooling**
+**Minecraft plugin development · Server optimization · Anti-exploit systems · License protection**
 
 </div>
 
@@ -17,7 +17,6 @@ I build tools and systems for Minecraft servers, with a focus on:
 - Performance optimization
 - Anti-cheat and exploit prevention
 - License validation and server protection
-- AI-assisted developer tooling and automation
 
 I enjoy creating clean, efficient, and reliable systems that help server owners and communities run smoother.
 
@@ -35,7 +34,6 @@ I enjoy creating clean, efficient, and reliable systems that help server owners 
 - Server-side optimization
 - Database and persistence layers
 - Authentication & license gating
-- AI-assisted workflows and automation
 
 ## 🔥 Current focus
 
@@ -43,7 +41,6 @@ I enjoy creating clean, efficient, and reliable systems that help server owners 
 - Improving performance and stability
 - Preventing exploit abuse and unauthorized access
 - Designing stronger license/protection systems
-- Exploring AI workflows for developer productivity
 
 ## 📊 GitHub stats
 
@@ -60,4 +57,3 @@ I enjoy creating clean, efficient, and reliable systems that help server owners 
 
 ---
 
-> “Building efficient systems for Minecraft servers — from plugins to protection to automation.”
