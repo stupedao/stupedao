@@ -48,7 +48,7 @@ I'm **Stupedao**, a developer who loves building Minecraft plugins, backend syst
 
 <div align="center">
 
-[![Contribution graph](https://ghchart.rshah.org/7c3aed/stupedao)](https://github.com/stupedao)
+[![Contribution graph](https://ghchart.rshah.org/00ffff/stupedao)](https://github.com/stupedao)
 
 </div>
 
