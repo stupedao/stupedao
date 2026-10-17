@@ -14,7 +14,7 @@
 
 ---
 
-## `> aboutme`
+## `aboutme`
 
 I'm **Stupedao**, a developer who loves building Minecraft plugins, backend systems, automation tools, and the occasional weird side project.
 
@@ -33,10 +33,9 @@ I'm **Stupedao**, a developer who loves building Minecraft plugins, backend syst
 
 </div>
 
-## `> github --stats`
+## `github stats`
 
 <div align="center">
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/stupedao)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stupedao)
 
