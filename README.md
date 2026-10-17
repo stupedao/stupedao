@@ -64,7 +64,15 @@ I'm **Stupedao**, a developer who loves building Minecraft plugins, backend syst
 
 ## `> contribution-graph`
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stupedao&theme=tokyo-night&hide_border=true&area=true)](https://github.com/stupedao)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stupedao/stupedao/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stupedao/stupedao/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/stupedao/stupedao/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ## `> connect`
 
