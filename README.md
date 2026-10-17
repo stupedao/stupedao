@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Also working with:** ProGuard · Skidfuscator · PWF Auth · Spigot/Paper-style plugin APIs
+**working with:** · Spigot/Paper-style plugin APIs
 
 ## 📊 GitHub stats
 
@@ -22,12 +22,6 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-## 🎯 Currently
-
-- 🔧 Improving EreProtect and tuning ErebusOpt
-- 🔒 Hardening TesseraProtect's licensing and obfuscation
-- 🧠 Developing kimi-code-v1
 
 ## 📫 Find me
 
