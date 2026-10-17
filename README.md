@@ -1,65 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:312e81,100:7c3aed&height=180&section=header&text=Stupedao&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Minecraft%20Plugins%20%C2%B7%20Java%20%C2%B7%20Security%20%C2%B7%20Automation&descSize=16&descAlignY=60" alt="Stupedao banner" />
+# Hey, I'm stupedao 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Minecraft+Plugin+Developer;Java+%26+Backend+Enthusiast;Anticheat+%26+Server+Security;Open-Source+Contributor;Building+ideas+into+reality)](https://github.com/stupedao)
+**Minecraft plugin dev · Server optimization · Anti-exploit & license protection · AI tooling**
 
-![Profile views](https://komarev.com/ghpvc/?username=stupedao&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![GitHub](https://img.shields.io/badge/GitHub-stupedao-181717?style=for-the-badge&logo=github)](https://github.com/stupedao)
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-7c3aed?style=for-the-badge&logo=git&logoColor=white)](https://github.com/stupedao?tab=repositories)
-
-*Experimenting, building, breaking things, and learning something new every day.*
+![Profile views](https://komarev.com/ghpvc/?username=stupedao&label=Profile%20views&color=7c3aed&style=flat-square)
+![Followers](https://img.shields.io/github/followers/stupedao?label=Followers&style=flat-square&color=7c3aed)
 
 </div>
 
 ---
 
-## `aboutme`
+## 🧰 What I build
 
-I'm **Stupedao**, a developer who loves building Minecraft plugins, backend systems, automation tools, and the occasional weird side project.
+I make fast, protected Minecraft server software and the tooling around it: plugins that keep servers stable, code that squeezes out performance, and licensing that keeps paid work safe.
 
-- Focused on **Minecraft plugin development**
-- Into **anticheat systems, exploit protection, and server security**
-- Obsessed with **performance** — packet handling, sync, and keeping TPS healthy
-- Exploring **Java and backend development**
-- Building **bots, utilities, and AI-assisted automation**
-- Always learning from open-source projects and other developers
+## 🚀 Projects
 
-## `tech stack`
+| Project | What it does |
+|---|---|
+| 🛡️ **EreProtect** | Java anti-crash and anti-exploit plugin that keeps servers online against crashers and malicious packets. |
+| ⚡ **ErebusOpt** | Server optimization focused on block break/place sync, low player CPU cost, ping, combat and knockback sync, memory-efficient chunks, and smooth joins. |
+| 🔐 **TesseraProtect** | Minecraft plugin with built-in license protection (PWF Auth), shipped with ProGuard and Skidfuscator obfuscation. |
+| 🤖 **kimi-code-v1** | My own Python AI coding agent (`stupedao/kimi-code-v1`) that reasons through tasks and creates, edits and deletes files and folders. |
+
+### 🟣 Tessera
+**Best Cheap Plugin**: my plugin line, built around reliable protection and good performance at a fair price.
+
+## 🛠️ Tech & tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Also working with:** ProGuard · Skidfuscator · PWF Auth · Spigot/Paper-style plugin APIs
+
+## 📊 GitHub stats
 
 <div align="center">
 
-[![Tech stack](https://skillicons.dev/icons?i=java,python,js,ts,nodejs,maven,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+![stupedao's GitHub stats](https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=radical&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-## `github stats`
+## 🎯 Currently
+
+- 🔧 Improving EreProtect and tuning ErebusOpt
+- 🔒 Hardening TesseraProtect's licensing and obfuscation
+- 🧠 Developing kimi-code-v1
+
+## 📫 Find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-stupedao-181717?style=flat-square&logo=github)](https://github.com/stupedao)
+
+---
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/stupedao)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stupedao)
-
-[![Contribution streak](https://streak-stats.demolab.com?user=stupedao&theme=tokyonight&hide_border=true)](https://github.com/stupedao)
-
-</div>
-
-## `contribution-graph`
-
-<div align="center">
-
-[![Contribution graph](https://ghchart.rshah.org/00ffff/stupedao)](https://github.com/stupedao)
-
-</div>
-
-## `connect`
-
-<div align="center">
-
-[![Follow my journey](https://img.shields.io/badge/Follow%20my%20journey-181717?style=for-the-badge&logo=github)](https://github.com/stupedao)
-
-**`while (learning) { build(); improve(); repeat(); }`**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:7c3aed&height=100&section=footer" alt="footer" />
+⭐ If something here is useful to you, a star goes a long way.
 
 </div>
