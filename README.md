@@ -3,7 +3,7 @@
 # Hey, I'm stupedao 👋
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Developer;Server+Optimization+Expert;Anti-Exploit+Specialist;License+Protection+Builder;AI+Tooling+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Developer;Server+Optimization+Expert;Anti-Exploit+Specialist;License+Protection+Builder;" alt="Typing SVG" />
 </p>
 
 **Minecraft plugin development · Server optimization · Anti-exploit systems · License protection**
