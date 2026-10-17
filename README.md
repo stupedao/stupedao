@@ -1,19 +1,14 @@
-# <div align="center">Hey, I'm Stupedao! 👋</div>
-
 <div align="center">
 
-<a href="https://github.com/stupedao">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Minecraft+Plugin+Developer;Java+%26+Backend+Enthusiast;Open-Source+Contributor;Building+ideas+into+reality" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:312e81,100:7c3aed&height=180&section=header&text=Stupedao&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Minecraft%20Plugins%20%C2%B7%20Java%20%C2%B7%20Security%20%C2%B7%20Automation&descSize=16&descAlignY=60" alt="Stupedao banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:312e81,100:7c3aed&height=3&section=header" width="100%" alt="Animated divider" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Minecraft+Plugin+Developer;Java+%26+Backend+Enthusiast;Anticheat+%26+Server+Security;Open-Source+Contributor;Building+ideas+into+reality)](https://github.com/stupedao)
 
-**Developer · Minecraft Plugins · Vibecoding**
+![Profile views](https://komarev.com/ghpvc/?username=stupedao&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-stupedao-181717?style=for-the-badge&logo=github)](https://github.com/stupedao)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-7c3aed?style=for-the-badge&logo=git&logoColor=white)](https://github.com/stupedao?tab=repositories)
 
 *Experimenting, building, breaking things, and learning something new every day.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-stupedao-181717?style=for-the-badge&logo=github)](https://github.com/stupedao)
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-7c3aed?style=for-the-badge&logo=git)](https://github.com/stupedao?tab=repositories)
 
 </div>
 
@@ -21,70 +16,64 @@
 
 ## `> whoami`
 
-I'm Stupedao, a developer interested in creating Minecraft plugins, backend systems, automation tools, and other software projects.
+I'm **Stupedao**, a developer who loves building Minecraft plugins, backend systems, automation tools, and the occasional weird side project.
 
-- 🎮 Focused on Minecraft plugin development.
-- 🛡️ Interested in anticheat systems and server security.
-- ☕ Exploring Java and backend development.
-- ⚙️ Building bots, utilities, and automation projects.
-- 🤝 Always interested in learning from open-source projects and collaborating with other developers.
+- 🎮 Focused on **Minecraft plugin development**
+- 🛡️ Into **anticheat systems, exploit protection, and server security**
+- ⚡ Obsessed with **performance** — packet handling, sync, and keeping TPS healthy
+- ☕ Exploring **Java and backend development**
+- 🤖 Building **bots, utilities, and AI-assisted automation**
+- 🤝 Always learning from open-source projects and other developers
 
 ## `> tech --list`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,maven,git,github,linux,vscode&theme=dark" alt="Technology icons" />
+[![Tech stack](https://skillicons.dev/icons?i=java,python,js,ts,nodejs,maven,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
+
+## `> projects --featured`
+
+<!-- Edit these to match your real repo names. Delete any row that is private or not ready to show. -->
+
+| Project | What it does |
+| ------- | ------------ |
+| [**EreProtect**](https://github.com/stupedao/EreProtect) | Anti-crash / anti-exploit plugin that keeps Minecraft servers stable and protected |
+| [**TesseraProtect**](https://github.com/stupedao/TesseraProtect) | Plugin protection with license checks and obfuscation |
+| [**ErebusOpt**](https://github.com/stupedao/ErebusOpt) | Server optimization: block sync, combat/knockback sync, chunk handling, join-spike fixes |
 
 ## `> current-interests`
 
-<div align="center">
-
 | 🎮 Minecraft | 🛡️ Security | ⚙️ Development |
-|:---:|:---:|:---:|
+| :----------- | :---------- | :------------- |
 | Custom plugins | Anticheat research | Backend systems |
-| Server utilities | Game mechanics | Bots & automation |
-
-</div>
+| Server utilities | Exploit & crash protection | Bots & automation |
+| Performance tuning | Game mechanics | AI coding tools |
 
 ## `> github --stats`
 
 <div align="center">
 
-<a href="https://github.com/stupedao">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/stupedao">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/stupedao)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stupedao)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=stupedao&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+[![Contribution streak](https://streak-stats.demolab.com?user=stupedao&theme=tokyonight&hide_border=true)](https://github.com/stupedao)
 
 </div>
 
 ## `> contribution-graph`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stupedao&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-
-</div>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stupedao&theme=tokyo-night&hide_border=true&area=true)](https://github.com/stupedao)
 
 ## `> connect`
 
 <div align="center">
 
-<a href="https://github.com/stupedao">
-  <img src="https://img.shields.io/badge/Follow%20my%20journey-181717?style=for-the-badge&logo=github" alt="Visit GitHub profile" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:7c3aed&height=100&section=footer" width="100%" alt="Decorative footer" />
+[![Follow my journey](https://img.shields.io/badge/Follow%20my%20journey-181717?style=for-the-badge&logo=github)](https://github.com/stupedao)
 
 **`while (learning) { build(); improve(); repeat(); }`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:7c3aed&height=100&section=footer" alt="footer" />
 
 </div>
