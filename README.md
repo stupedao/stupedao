@@ -14,42 +14,24 @@
 
 ---
 
-## `> whoami`
+## `> aboutme`
 
 I'm **Stupedao**, a developer who loves building Minecraft plugins, backend systems, automation tools, and the occasional weird side project.
 
-- 🎮 Focused on **Minecraft plugin development**
-- 🛡️ Into **anticheat systems, exploit protection, and server security**
-- ⚡ Obsessed with **performance** — packet handling, sync, and keeping TPS healthy
-- ☕ Exploring **Java and backend development**
-- 🤖 Building **bots, utilities, and AI-assisted automation**
-- 🤝 Always learning from open-source projects and other developers
+-  Focused on **Minecraft plugin development**
+-  Into **anticheat systems, exploit protection, and server security**
+-  Obsessed with **performance** — packet handling, sync, and keeping TPS healthy
+-  Exploring **Java and backend development**
+-  Building **bots, utilities, and AI-assisted automation**
+-  Always learning from open-source projects and other developers
 
-## `> tech --list`
+## `>`
 
 <div align="center">
 
 [![Tech stack](https://skillicons.dev/icons?i=java,python,js,ts,nodejs,maven,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
-
-## `> projects --featured`
-
-<!-- Edit these to match your real repo names. Delete any row that is private or not ready to show. -->
-
-| Project | What it does |
-| ------- | ------------ |
-| [**EreProtect**](https://github.com/stupedao/EreProtect) | Anti-crash / anti-exploit plugin that keeps Minecraft servers stable and protected |
-| [**TesseraProtect**](https://github.com/stupedao/TesseraProtect) | Plugin protection with license checks and obfuscation |
-| [**ErebusOpt**](https://github.com/stupedao/ErebusOpt) | Server optimization: block sync, combat/knockback sync, chunk handling, join-spike fixes |
-
-## `> current-interests`
-
-| 🎮 Minecraft | 🛡️ Security | ⚙️ Development |
-| :----------- | :---------- | :------------- |
-| Custom plugins | Anticheat research | Backend systems |
-| Server utilities | Exploit & crash protection | Bots & automation |
-| Performance tuning | Game mechanics | AI coding tools |
 
 ## `> github --stats`
 
