@@ -1,4 +1,4 @@
-# <div align="center">Hey, I'm Requza 👋</div>
+# <div align="center">Hey, I'm Stupedao! 👋</div>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 ## `> whoami`
 
-I'm Requza, a developer interested in creating Minecraft plugins, backend systems, automation tools, and other software projects.
+I'm Stupedao, a developer interested in creating Minecraft plugins, backend systems, automation tools, and other software projects.
 
 - 🎮 Focused on Minecraft plugin development.
 - 🛡️ Interested in anticheat systems and server security.
