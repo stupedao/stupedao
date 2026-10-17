@@ -33,10 +33,3 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-stupedao-181717?style=flat-square&logo=github)](https://github.com/stupedao)
 
----
-
-<div align="center">
-
-⭐ If something here is useful to you, a star goes a long way.
-
-</div>
