@@ -18,14 +18,14 @@
 
 I'm **Stupedao**, a developer who loves building Minecraft plugins, backend systems, automation tools, and the occasional weird side project.
 
--  Focused on **Minecraft plugin development**
--  Into **anticheat systems, exploit protection, and server security**
--  Obsessed with **performance** — packet handling, sync, and keeping TPS healthy
--  Exploring **Java and backend development**
--  Building **bots, utilities, and AI-assisted automation**
--  Always learning from open-source projects and other developers
+- Focused on **Minecraft plugin development**
+- Into **anticheat systems, exploit protection, and server security**
+- Obsessed with **performance** — packet handling, sync, and keeping TPS healthy
+- Exploring **Java and backend development**
+- Building **bots, utilities, and AI-assisted automation**
+- Always learning from open-source projects and other developers
 
-## `>`
+## `tech stack`
 
 <div align="center">
 
@@ -36,6 +36,7 @@ I'm **Stupedao**, a developer who loves building Minecraft plugins, backend syst
 ## `github stats`
 
 <div align="center">
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/stupedao)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stupedao)
 
@@ -44,12 +45,15 @@ I'm **Stupedao**, a developer who loves building Minecraft plugins, backend syst
 </div>
 
 ## `contribution-graph`
+
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stupedao/stupedao/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stupedao/stupedao/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/stupedao/stupedao/output/github-contribution-grid-snake.svg" />
 </picture>
+
 </div>
 
 ## `connect`
