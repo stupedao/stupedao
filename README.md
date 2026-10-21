@@ -50,10 +50,5 @@ I enjoy creating clean, efficient, and reliable systems that help server owners 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-## 📫 Find me
-
-[![GitHub](https://img.shields.io/badge/GitHub-stupedao-181717?style=flat-square&logo=github)](https://github.com/stupedao)
-
 ---
 
