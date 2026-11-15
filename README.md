@@ -42,12 +42,17 @@ I enjoy creating clean, efficient, and reliable systems that help server owners 
 - Preventing exploit abuse and unauthorized access
 - Designing stronger license/protection systems
 
-## 📊 GitHub stats
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![stupedao's GitHub stats](https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=radical&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=stupedao&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupedao&layout=compact&theme=radical&hide_border=true" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stupedao&theme=radical&hide_border=true" />
 
 </div>
+
 
